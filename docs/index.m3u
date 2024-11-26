@@ -192,7 +192,6 @@ CETV4,http://hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226940/index.m3u8
 家有购物,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226985/index.m3u8
 好享购物,http://hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226663/index.m3u8
 聚鲨环球精选,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221227044/index.m3u8
-
 CCTV1,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227209/index.m3u8
 CCTV2,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227206/index.m3u8
 CCTV3,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227215/index.m3u8
@@ -300,7 +299,6 @@ CHC影迷电影,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227490/index.
 先锋乒羽,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227365/index.m3u8
 快乐垂钓,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227441/index.m3u8
 茶,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227371/index.m3u8
-
 CCTV1,http://39.134.61.219/PLTV/88888888/224/3221226443/index.m3u8
 CCTV2,http://39.134.61.219/PLTV/88888888/224/3221226468/index.m3u8
 CCTV3,http://39.134.61.219/PLTV/88888888/224/3221227065/index.m3u8
@@ -380,7 +378,6 @@ CHC家庭影院,http://39.134.61.219/PLTV/88888888/224/3221227164/index.m3u8
 梨园,http://39.134.61.219/PLTV/88888888/224/3221227168/index.m3u8
 武术世界,http://39.134.61.219/PLTV/88888888/224/3221227170/index.m3u8
 文物宝库,http://39.134.61.219/PLTV/88888888/224/3221227095/index.m3u8
-
 浙江卫视,http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221226134/index.m3u8
 天津卫视,http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221226135/index.m3u8
 深圳卫视,http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221226136/index.m3u8
@@ -564,7 +561,6 @@ CCTV16,http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227074/index.m3u8
 央广购物,http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227105/index.m3u8
 农林卫视,http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227108/index.m3u8
 康巴卫视,http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227111/index.m3u8
-西藏卫视|藏语http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227157/index.m3u8
 安多卫视,http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227160/index.m3u8
 吉林卫视,http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227163/index.m3u8
 山东教育卫视,http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227166/index.m3u8
@@ -689,7 +685,6 @@ CHC影迷电影,http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227490/index
 风云音乐,http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227502/index.m3u8
 央视文化精品,http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227505/index.m3u8
 女性时尚,http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227508/index.m3u8
-
 CCTV4|欧洲,http://hwottcdn1.ln.chinamobile.com/PLTV/88888888/410/3221227001/index.m3u8
 CCTV1,http://hwottcdn1.ln.chinamobile.com/PLTV/88888888/410/3221227010/index.m3u8
 聚鲨环球精选,http://hwottcdn1.ln.chinamobile.com/PLTV/88888888/410/3221227044/index.m3u8
@@ -982,8 +977,6 @@ CGTN|西班牙语,http://39.134.65.209:80/PLTV/88888888/224/3221226094/1.m3u8
 重庆卫视,http://39.134.65.209:80/PLTV/88888888/224/3221225963/0.m3u8
 重庆卫视,http://39.134.65.209:80/PLTV/88888888/224/3221226001/1.m3u8
 
-@37,#genre#
-
 @01,#genre#
 人民铁道视频,http://39.162.27.11:8081/newlive/live/hls/2/live.m3u8
 郑铁有线电视台,http://39.162.27.11:8081/newlive/live/hls/1/live.m3u8
@@ -1002,32 +995,6 @@ CECO4,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 兵团五师双河新闻综合,https://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8
 兵团十三师新星综合,http://test5.btzx.com.cn/live/13TV.stream/playlist.m3u8
 兵团十四师昆玉综合,http://test5.btzx.com.cn/live/14TV.stream/playlist.m3u8
-
-@33,#genre#
-武义新闻综合,http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8
-平湖新闻综合,http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8
-平湖民生休闲,http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8
-萧山新闻综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
-萧山生活频道,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
-余杭综合频道,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
-余杭未来E频道,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
-余姚新闻综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
-余姚姚江文化,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
-嵊州新闻综合,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
-诸暨新闻综合,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8
-上虞新闻综合,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
-上虞文化影院,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
-上虞新商都,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
-兰溪新闻综合,http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
-上海新闻,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000005/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000005&IASHttpSessionId=OTT19019320240419154124000281
-上海都市,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000012/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000012&IASHttpSessionId=OTT19019320240419154124000281
-上海外语,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000001/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000001&IASHttpSessionId=OTT19019320240419154124000281
-七彩戏剧,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000010&IASHttpSessionId=OTT19019320240419154124000281
-五星体育,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281
-东方影视,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000013&IASHttpSessionId=OTT19019320240419154124000281
-东方财经,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000090/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000090&IASHttpSessionId=OTT19019320240419154124000281
-法治天地,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000014&IASHttpSessionId=OTT19019320240419154124000281
-第一财经,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IASHttpSessionId=OTT19019320240419154124000281
 
 @S,#genre#
 1983年春晚,http://txmov2.a.kwimgs.com/bs3/video-hls/5207287136834522947_hlshd15.m3u8

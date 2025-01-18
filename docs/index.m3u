@@ -1,4 +1,4 @@
-CM.ln,#genre#
+cm.ln,#genre#
 CCTV1,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226721/index.m3u8
 CCTV1,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226675/index.m3u8
 CCTV1,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221227001/index.m3u8
@@ -756,13 +756,13 @@ CHC影迷电影,http://hwottcdn1.ln.chinamobile.com/PLTV/88888888/410/3221227490
 央视文化精品,http://hwottcdn1.ln.chinamobile.com/PLTV/88888888/410/3221227505/index.m3u8
 女性时尚,http://hwottcdn1.ln.chinamobile.com/PLTV/88888888/410/3221227508/index.m3u8
 
-KUAI,#genre#
+kuai,#genre#
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 凤凰中文,http://ali.hlspull.yximgs.com/live/diyp_fh2.flv
 凤凰资讯,http://ali.hlspull.yximgs.com/live/diyp_fh1.flv
 凤凰香港,http://ali.hlspull.yximgs.com/live/diyp_fh3.flv
 
-CU.ln,#genre#
+cu.ln,#genre#
 CCTV1,http://39.134.52.215/PLTV/88888888/224/3221226443/index.m3u8
 CCTV1,http://39.134.52.215/PLTV/88888888/224/3221226709/index.m3u8
 CCTV1,http://39.134.52.215/PLTV/88888888/224/3221226746/index.m3u8
@@ -945,7 +945,7 @@ CETV1,http://39.134.52.215/PLTV/88888888/224/3221226518/index.m3u8
 聚鲨环球精选,http://39.134.52.215/PLTV/88888888/224/3221226765/index.m3u8
 优购物,http://39.134.52.215/PLTV/88888888/224/3221227063/index.m3u8
 
-MIX,#genre#
+mix,#genre#
 大立,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
